@@ -610,7 +610,7 @@ const downloadResume = () => {
                   >
                     <Box
                       component="img"
-                      src="/portfolio-mui/public/images/profile.png"
+                      src="/images/profile.png"
                       alt="Portrait of Otmane"
                       sx={{
                         width: { xs: 320, sm: 320 },
