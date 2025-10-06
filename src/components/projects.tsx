@@ -213,9 +213,10 @@ export default function Projects() {
                 width: "100%",
                 maxWidth: 1200,
                 mx: "auto",
-                minHeight: { xs: 520, sm: 580, md: 640, lg: 540 },
+                minHeight: { xs: 480, sm: 540, md: 600, lg: 540 },
                 mb: 3,
-                overflow: "visible"
+                overflow: "visible",
+                px: { xs: 1 }
               }}
               onTouchStart={onTouchStart}
               onTouchEnd={onTouchEnd}

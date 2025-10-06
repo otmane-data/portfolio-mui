@@ -81,7 +81,7 @@ export const ProjectCard = ({
                   flex: "0 0 auto",
                   width: { xs: "100%", md: 420, lg: 420 },
                   maxWidth: { xs: "100%", md: 420 },
-                  aspectRatio: "16 / 9",
+                  aspectRatio: { xs: "16 / 9", md: "auto" },
                   borderRight: { md: "1px solid" },
                   borderColor: "divider",
                   bgcolor: darkMode ? "rgba(255,255,255,0.04)" : "rgba(15,23,42,0.04)",
@@ -92,7 +92,8 @@ export const ProjectCard = ({
                     "& .image": {
                       transform: "scale(1.03)"
                     }
-                  }
+                  },
+                  height: { xs: "200px", md: "auto" }
                 }}
                 onClick={openModal}
               >

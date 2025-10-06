@@ -205,22 +205,22 @@ export default function SkillsAndCerts() {
             }}
           />
 
-          <Box sx={{ display: "grid", gap: 3.5 }}>
+          <Box sx={{ display: "grid", gap: { xs: 2.5, sm: 3.5 } }}>
             {/* Certifications (Unchanged) */}
             {certifications.length > 0 && (
               <Paper
                 elevation={0}
                 sx={{
                   borderRadius: 0,
-                  px: { xs: 2.5, md: 4 },
-                  py: { xs: 3, md: 4 },
+                  px: { xs: 1.5, md: 4 },
+                  py: { xs: 2.5, md: 4 },
                   backgroundColor: "transparent",
                   border: "none",
                   boxShadow: "none",
                 }}
               >
-                <Stack direction="row" alignItems="center" justifyContent="space-between" sx={{ mb: 3 }}>
-                  <Typography variant="subtitle1" sx={{ fontWeight: 800, fontSize: "1.5rem" }}>
+                <Stack direction={{ xs: "column", sm: "row" }} alignItems={{ xs: "flex-start", sm: "center" }} justifyContent="space-between" sx={{ mb: 2.5, gap: 1 }}>
+                  <Typography variant="subtitle1" sx={{ fontWeight: 800, fontSize: { xs: "1.3rem", sm: "1.5rem" } }}>
                     {t("portfolio.resume.certifications", "Certifications")} ({certifications.length})
                   </Typography>
                   {showCertNav && (

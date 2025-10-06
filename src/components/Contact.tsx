@@ -124,10 +124,7 @@ export function Contact() {
           background: darkMode 
             ? "linear-gradient(45deg, rgba(76, 0, 155, 0.1) 0%, rgba(28, 0, 102, 0.1) 100%)"
             : "linear-gradient(45deg, rgba(124, 58, 237, 0.05) 0%, rgba(97, 0, 255, 0.05) 100%)",
-          border: `1px solid ${darkMode ? 'rgba(124, 58, 237, 0.2)' : 'rgba(124, 58, 237, 0.1)'}`,
-          display: "grid",
-          gridTemplateColumns: { xs: "1fr", md: "repeat(2, 1fr)" },
-          gap: 4
+          border: `1px solid ${darkMode ? 'rgba(124, 58, 237, 0.2)' : 'rgba(124, 58, 237, 0.1)'}`
         }}
       >
         <Stack 
@@ -162,7 +159,7 @@ export function Contact() {
                 }}
               >
                 <Box sx={{ 
-                  p: 1.5,
+                  p: 1,
                   borderRadius: 2,
                   bgcolor: "primary.main",
                   color: "white",

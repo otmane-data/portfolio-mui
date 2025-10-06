@@ -539,8 +539,8 @@ const downloadResume = () => {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 1, delay: 0.5 }}
               style={{
-                width: "min(450px, 90vw)",
-                height: "min(450px, 90vw)",
+                width: { xs: "min(300px, 90vw)", lg: "min(450px, 450px)" },
+                height: { xs: "min(300px, 90vw)", lg: "min(450px, 450px)" },
                 position: "relative"
               }}
             >
