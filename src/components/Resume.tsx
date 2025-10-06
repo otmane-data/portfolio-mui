@@ -7,8 +7,7 @@ import {
   CalendarMonth,
   School,
   WorkspacePremium,
-  Translate,
-  ContactMail
+  Translate
 } from "@mui/icons-material";
 import { containerVariants, sectionVariants, techChipVariants } from "../utils/animations";
 import { getTechColor } from "../utils/techConfig";

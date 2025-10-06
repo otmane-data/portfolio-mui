@@ -14,7 +14,6 @@ import {
   ArrowDownward,
   Code,
   Terminal,
-  SmartToy,
   Download,
   Psychology,
   Speed

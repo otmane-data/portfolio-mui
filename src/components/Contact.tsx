@@ -2,7 +2,8 @@ import { Box, Button, Stack, TextField, Typography, Paper } from "@mui/material"
 import { Email, Phone, LocationOn, Send } from "@mui/icons-material";
 import { useThemeContext } from "../context/ThemeContext";
 import { useTranslation } from "../context/LocaleContext";
-import { useState, FormEvent } from "react";
+import { useState } from "react";
+import type { FormEvent } from "react";
 
 export function Contact() {
   const { darkMode } = useThemeContext();
