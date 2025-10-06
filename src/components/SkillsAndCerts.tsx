@@ -59,7 +59,7 @@ const fallbackGetTechIcon = (tech: string): React.ReactNode => {
   return icons[tech] || "🔧";
 };
 
-import type { Variants, TargetAndTransition } from "framer-motion";
+import type {  TargetAndTransition } from "framer-motion";
 
 // Animation variants for technologies
 type TechVariantsType = {
