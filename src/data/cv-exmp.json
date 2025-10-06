@@ -1,0 +1,181 @@
+{
+  "personal": {
+    "name": "AGHZAR OTMANE",
+    "title": "future Data Engineer",
+    "phone": "+212 767 17 32 42",
+    "email": "aghzarotmane2002@gmail.com",
+    "address": "Sefrou, Maroc",
+    "portfolio": "https://aghzarotmane.github.io/portoflio/",
+    "linkedin": "https://www.linkedin.com/in/otmane-aghzar/",
+    "github": "https://github.com/otmane-data",
+    "profilePicture": "/images/profile.png"
+  },
+  "summary": "Student at ENSAH, specialized in data engineering, with experience in designing and optimizing ETL/ELT pipelines, cloud architecture (AWS, Azure), Big Data technologies (Spark, Kafka), and artificial intelligence solutions, including generative AI.",
+   "education": [
+    {
+      "degree": "Data Engineering & Artificial Intelligence",
+      "institution": "ENSAH - National School of Applied Sciences, Hoceima",
+      "institutionLogo": "/images/ecole.png",
+      "website": "https://ensah.ma/",
+      "period": "2021-2026",
+      "status": "En cours",
+      "location": "Hoceima, Maroc",
+      "projects": ["automatisation ETL piplines", "IA solutions", "cloud Computing" , "Big Data"]
+    },
+    {
+      "degree": "Baccalaureate in Mathematical Sciences, Option B ",
+      "institution": "Lycee Sidi Lhcen El Youssi, Sefrou",
+      "institutionLogo": "/images/lycee.png",
+      "period": "2020-2021",
+      "grade": "Bien",
+      "location": "Sefrou, Maroc",
+      "projects": ["Acquisition of skills in time management and scientific subjects"]
+
+    },
+    {
+      "degree": "More informations",
+      "institution": "ENSA, Hoceima",
+      "institutionLogo": "/images/club.png",
+      "period": "2021-Present",
+      "grade": "Active participant in social and educational initiatives with the Quran Club at school",
+      "projects": ["Committed to staying updated with the latest data technologies and techniques","Teamwork"]
+
+    }
+  ],
+  "experience": [
+    {
+      "position": "Software Development Intern",
+      "company": "LaboControl",
+      "companyLogo": "/images/logos/labocontrol.png",
+      "website": "https://labocontrol.com",
+      "location": "Fes, Morocco",
+      "period": "01/04/2024 - 24/06/2024",
+      "duration": "3 months",
+      "description": "Built a web application for integrated service and product marketing, improving business processes and enhancing user experience.",
+      "technologies": ["Spring Boot", "Angular", "TypeScript", "HTML/CSS", "MySQL"],
+      "images": [
+        "/images/labocontrol/labocontrol-Aceuil.png",
+        "/images/labocontrol/labocontrol-services.png",
+        "/images/labocontrol/labocontrol-materiel.png"
+      ],
+      "achievements": ["Improved UX by 20%", "Reduced processing time by 15%"],
+      "roleType": "Internship"
+    },
+    {
+      "position": "Full Stack Engineer Intern",
+      "company": "Valhko",
+      "companyLogo": "/images/logos/valhko.png",
+      "website": "https://valhko.com",
+      "location": "Remote",
+      "period": "07/07/2025 - Present",
+      "description": "Unified authentication across microservices via the API Gateway and coordinated code reviews to accelerate deployment.",
+      "technologies": ["Java", "Spring Boot", "microservices architecture", "Azure Service Bus", "React", "Spring Cloud", "Docker", "Docker Compose", "Grafana", "Zipkin", "Loki", "Git"],
+      "images": ["/images/Valhko/image-1.png", "/images/Valhko/image-2.png","/images/Valhko/image-3.png",
+      "/images/Valhko/image-4.png","/images/Valhko/image-5.png"],
+      "roleType": "Internship"
+    },
+    {
+      "position": "VB.NET Developer Intern",
+      "company": "Copref",
+      "companyLogo": "/images/logos/copref.png",
+      "location": "Kenitra, Morocco",
+      "period": "15/05/2023 - 15/06/2023",
+      "duration": "1 month",
+      "description": "Analyzed and fixed bugs in an existing desktop application developed in VB.NET, resulting in improved stability and performance.",
+      "technologies": ["VB.NET", "SQL Server"],
+      "images": ["/images/project1-1.png", "/images/project1-2.png"],
+      "roleType": "Internship"
+    },
+    {
+      "position": "Web Developer Intern",
+      "company": "Ibn Tofail University",
+      "companyLogo": "/images/logos/ibntofail.png",
+      "location": "Kenitra, Morocco",
+      "period": "2022",
+      "duration": "1 month",
+      "description": "Developed a web application for the digital management of correspondence between the Doctoral Studies Center (CED) and the DECANAT's office.",
+      "technologies": ["PHP", "MySQL", "HTML/CSS", "JavaScript"],
+        "images": [
+        "/images/labocontrol/labocontrol-Aceuil.png",
+        "/images/labocontrol/labocontrol-services.png",
+        "/images/labocontrol/labocontrol-materiel.png"
+      ],
+      "roleType": "Internship"
+    }
+  ],
+ 
+  
+  "projects": [
+    {
+      "title": "🏨 Hotel Sentiment Analysis API 🌟",
+      "period": "06/11/2023 - 06/01/2024",
+      "duration": "2 mois",
+      "description": "This project is a sentiment analysis API that predicts whether a hotel is recommended based on user comments. It uses machine learning to classify comments as positive or negative and provides an overall recommendation.",
+      "technologies": ["FastAPI", "Python", "scikit-learn", "joblib", "NumPy", "Docker", "Google colab"],
+      "images": [
+        "/images/1.png"
+      ],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/analyse-sentiments"
+        
+    },
+    {
+      "title": "ETL Pipeline Santé",
+      "period": "20/03/2025 - 20/04/2025",
+      "duration": "1 mois",
+      "description": "This project implements a robust ETL pipeline for processing, analyzing, and monitoring healthcare data. Using Apache Airflow, the extraction, transformation, and loading steps are efficiently orchestrated. Data is collected from a production database, cleaned, and aggregated before being stored in an analytical database. To ensure transparency and pipeline monitoring, Prometheus and StatsD are used to collect system and application metrics, while Grafana provides real-time visualization of system performance and health. Finally, Apache Superset offers interactive dashboards to explore and analyze healthcare data, facilitating data-driven decision-making.",
+      "technologies": ["Airflow", "Grafana", "Prometheus", "Superset", "StatsD", "Docker", "Python", "PostgreSQL"],
+      "images": [
+        "/images/4.png"
+      ],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/ETL-Pipline-sante"
+    },
+    {
+      "title": "📡 Pipeline Telecom",
+      "period": "01/05/2025 - 11/06/2025",
+      "duration": "1 mois",
+      "description": "This project presents a fully integrated data pipeline tailored for telecom operations, covering the entire lifecycle of telecom event processing — from real-time data generation to final interactive visualization. The pipeline simulates how telecom companies process call data records (CDRs), price them based on business rules, store billing information, and provide stakeholders with dynamic insights through dashboards. By leveraging modern big data technologies such as Apache Kafka, Apache Spark, PostgreSQL, and Streamlit, the project demonstrates a practical application of distributed data processing in a near real-time context.",
+      "technologies": ["Spark", "Kafka", "Docker", "Python", "PostgreSQL", "Streamlit"],
+      "images": [
+        "/images/data.png"
+      ],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/TelecomPipline"
+    },
+    {
+      "title": "🦷 Dental Pathology Classification",
+      "period": "04/2025 - 05/2025",
+      "duration": "1 mois",
+      "description": "🦷 Dental Pathology Classification with Supervision via Docker, Prometheus, and Grafana. This project presents an intelligent web application for the automatic classification of dental pathologies from images, enhanced by real-time monitoring of system and application metrics using Prometheus and Grafana. The entire setup is orchestrated through Docker Compose, ensuring easy and reproducible installation and management.",
+      "technologies": ["Flask", "Grafana", "Docker", "Python", "Prometheus", "PyTorch"],
+      "images": ["/images/2.png"],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/classification-maladies-dentaires"
+
+    }
+
+  ],
+  
+"skills": {
+   "languages": ["Java","Python", "C","SQL","shell"],
+    "Big Data": ["Spark", "Kafka", "Hadoop"],
+    "devops": ["Git", "GitHub Action", "GitLab", "Docker","kubernetes","Terraform"],
+    "databases": ["MySQL","Oracle DB","PostgreSQL","MongoDB"],
+    "Cloud platform": ["AWS", "Azure","DataBricks","Snowflake"],
+    "Freamwork": ["FastAPI", "Spring Boot" , "Flask"],
+    "AI": ["Hugging Face", "TensorFlow", "PyTorch", "Scikit-learn", "NumPy", "Pandas"],
+    "orchestrated $ ETL": ["Apache Airflow", "dbt", "Data Warehousing", "Data Lake","Data Modelling"],
+    "tools": ["Prometheus", "Grafana","PowerBI"]
+  },
+  "languages": [
+    { "name": "Arabic", "level": "Native" },
+    { "name": "French", "level": "Professional Proficiency" },
+    { "name": "English", "level": "Professional Proficiency" }
+  ],
+  "softSkills": [
+  "Teamwork",
+  "Autonomy",
+  "Adaptability"
+]
+}

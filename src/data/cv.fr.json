@@ -1,0 +1,204 @@
+{
+  "personal": {
+    "name": "AGHZAR OTMANE",
+    "title": "future Data Engineer",
+    "phone": "+212 767 17 32 42",
+    "email": "aghzarotmane2002@gmail.com",
+    "address": "Sefrou, Maroc",
+    "portfolio": "https://aghzarotmane.github.io/portfolio/",
+    "linkedin": "https://www.linkedin.com/in/otmane-aghzar/",
+    "github": "https://github.com/otmane-data",
+    "profilePicture": "/images/1.png"
+  },
+  "summary": "Étudiant à l'ENSAH, spécialisé en ingénierie des données, avec une expérience dans la conception et l'optimisation des processus de données ETL/ELT, l'architecture cloud (AWS, Azure), les technologies Big Data (Spark, Kafka) et les solutions d'intelligence artificielle, y compris l'IA générative.",
+  "education": [
+    {
+      "degree": "ingénierie des données & intelligence artificielle",
+      "institution": "ENSAH - Ecole National Des Sciences Appliques, Hoceima",
+      "institutionLogo": "/images/ecole.png",
+      "website": "https://ensah.ma/",
+      "period": "2021-2026",
+      "status": "En cours",
+      "location": "Hoceima, Maroc",
+      "projects": ["automatisation des ETL piplines", "IA solutions", "cloud Computing" , "Big Data"]
+    },
+    {
+      "degree": "Baccalaureat en sciences mathematiques option B ",
+      "institution": "Lycee Sidi Lhcen El Youssi, Sefrou",
+      "institutionLogo": "/images/ecole.png",
+      "period": "2020-2021",
+      "grade": "Bien",
+      "location": "Sefrou, Maroc",
+      "projects": ["aquisition des compétences en gestion de temps et matieres scientifiques"]
+    },
+    {
+      "degree": "Plus D'informations",
+      "institution": "ENSA, Hoceima",
+      "institutionLogo": "/images/club.png",
+      "period": "2021-Present",
+      "grade": "Participant actif aux initiatives sociales et éducatives du Club du Coran à l’école",
+      "projects": ["Engagé à rester à jour avec les dernières technologies et techniques de données","Travail en équipe","Autonomie", "Adaptabilité"]
+
+    }
+  ],
+  "experience": [
+   {
+      "position": "Stagiaire en développement logiciel",
+      "company": "LaboControl",
+      "companyLogo": "/images/logos/labocontrol.png",
+      "website": "https://labocontrol.com",
+      "location": "Fès, Maroc",
+      "period": "01/04/2024 - 24/06/2024",
+      "duration": "3 mois",
+      "description": "Développement d'une application web pour aider LaboControl à promouvoir ses services et à étendre sa portée de produits au-delà de l'écosystème BTP. Mise en place d'une boutique numérique permettant la vente de produits inutilisés ou excédentaires, rationalisant le processus de vente et augmentant la visibilité sur le marché.",
+      "technologies": ["Spring Boot", "Angular", "TypeScript", "HTML/CSS", "MySQL"],
+      "images": [
+        "/images/labocontrol/labocontrol-Aceuil.png",
+        "/images/labocontrol/labocontrol-services.png",
+        "/images/labocontrol/labocontrol-materiel.png"
+      ],
+      "achievements": [
+        "Permettre la promotion en ligne des services de l'entreprise, touchant un public plus large",
+        "Mise en place d'une boutique numérique pour les produits excédentaires, créant de nouvelles opportunités de vente"
+      ],
+      "roleType": "Stage",
+      "projectLink": "https://guthib.com/",
+      "githubLink": "https://github.com/khalidElbouari/labocontrol"
+    },
+    {
+      "position": "Stagiaire Ingénieur Full Stack",
+      "company": "Valhko",
+      "companyLogo": "/images/logos/valhko.png",
+      "website": "https://valhko.com",
+      "location": "À distance",
+      "period": "07/07/2025 - Présent",
+      "description": "Contribution à la plateforme basée sur les microservices de Valhko en unifiant l'authentification à travers les services via l'API Gateway, en intégrant les services Post et Feed dans la nouvelle interface, et en implémentant le téléchargement et le rendu des médias via Azure Blob Storage. Conception et développement du microservice AI Agent Service pour permettre des interactions sécurisées avec les agents, intégration du modèle d'assistant IA (Arya) dans l'interface utilisateur en utilisant Django et le système de glisser-déposer, et connexion aux services backend. Soutien également aux tâches de sprint telles que career-workspace, career-insights et le déploiement d'Arya v2, ainsi que contribution à la mise en œuvre d'un système de gestion des clés API pour sécuriser les API des agents.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "architecture microservices",
+        "Azure Service Bus",
+        "Azure Blob Storage",
+        "React",
+        "Spring Cloud",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "Docker Compose",
+        "Grafana",
+        "Zipkin",
+        "Loki",
+        "Git"
+      ],
+      "images": [
+        "/images/Valhko/image-1.png",
+        "/images/Valhko/image-2.png",
+        "/images/Valhko/image-3.png",
+        "/images/Valhko/image-4.png",
+        "/images/Valhko/image-5.png"
+      ],
+      "achievements": [
+        "Développement et déploiement d'un nouveau microservice AI Agent Service",
+        "Unification de l'authentification à travers les microservices via l'API Gateway"
+      ],
+      "roleType": "Stage"
+    },
+    {
+      "position": "Stagiaire Développeur VB.NET",
+      "company": "Copref",
+      "companyLogo": "/images/logos/copref.png",
+      "location": "Kénitra, Maroc",
+      "period": "15/05/2023 - 15/06/2023",
+      "duration": "1 mois",
+      "description": "Analyse et correction de bugs dans une application de bureau existante développée en VB.NET, résultant en une amélioration de la stabilité et des performances.",
+      "technologies": ["VB.NET", "SQL Server"],
+      "images": ["placeHolder.jpg"],
+      "roleType": "Stage"
+    },
+    {
+      "position": "Stagiaire Développeur Web",
+      "company": "Université Ibn Tofail",
+      "companyLogo": "/images/logos/ibntofail.png",
+      "location": "Kénitra, Maroc",
+      "period": "2022",
+      "duration": "1 mois",
+      "description": "Développement d'une application web pour la gestion numérique de la correspondance entre le Centre d'Études Doctorales (CED) et le bureau du DECANAT.",
+      "technologies": ["PHP", "MySQL", "HTML/CSS", "JavaScript"],
+      "images": ["placeHolder.jpg"],
+      "roleType": "Stage"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "🏨 Hotel Sentiment Analysis API 🌟",
+      "period": "06/11/2023 - 06/01/2024",
+      "duration": "2 mois",
+      "description": "Ce projet est une API d'analyse de sentiment qui prédit si un hôtel est recommandé en se basant sur les commentaires des utilisateurs. Il utilise l'apprentissage automatique pour classifier les commentaires comme positifs ou négatifs et fournit une recommandation globale.",
+      "technologies": ["FastAPI", "Python", "scikit-learn", "joblib", "NumPy", "Docker", "Google colab"],
+      "images": [
+        "/images/1.png"
+      ],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/analyse-sentiments"
+    },
+    {
+      "title": "ETL Pipeline Santé",
+      "period": "20/03/2025 - 20/04/2025",
+      "duration": "1 mois",
+      "description": "Ce projet implémente un pipeline ETL robuste pour le traitement, l'analyse et la surveillance de données de santé. En utilisant Apache Airflow, les étapes d'extraction, transformation et chargement sont orchestrées de manière efficace. Les données sont collectées à partir d'une base de données de production, nettoyées et agrégées avant d'être stockées dans une base de données analytique.",
+      "technologies": ["Airflow", "Grafana", "Prometheus", "Superset", "StatsD", "Docker", "Python", "PostgreSQL"],
+      "images": [
+        "/images/4.png"
+      ],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/ETL-Pipline-sante"
+    },
+    {
+      "title": "📡 Pipeline Telecom",
+      "period": "01/05/2025 - 11/06/2025",
+      "duration": "1 mois",
+      "description": "Ce projet présente un pipeline de données entièrement intégré, conçu pour les opérations télécoms et couvrant l’ensemble du cycle de traitement des événements — depuis la génération en temps réel des données jusqu’à la visualisation interactive finale. Le pipeline simule la manière dont les entreprises de télécommunication traitent les Call Data Records (CDRs), les tarifient selon des règles métiers, stockent les informations de facturation et fournissent aux parties prenantes des analyses dynamiques via des tableaux de bord.",
+      "technologies": ["Spark", "Kafka", "Docker", "Python", "PostgreSQL", "Streamlit"],
+      "images": [
+        "/images/data.png"
+      ],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/TelecomPipline"
+    },
+    {
+      "title": "🦷 Dental Pathology Classification",
+      "period": "04/2025 - 05/2025",
+      "duration": "1 mois",
+      "description": "Ce projet presente une application web intelligente pour la classification autoatique des pathologies dentaires a partir des images , enrichie par une surveillance en temps reel des metriques du system et de l'application al'aide de Prometheus et Grafana",
+      "technologies": ["Flask", "Grafana", "Docker", "Python", "Prometheus", "PyTorch"],
+      "images": ["/images/2.png"],
+      "projectLink": "https://github.com/otmane-data",
+      "githubLink": "https://github.com/otmane-data/classification-maladies-dentaires"
+    }
+    
+  
+  ],
+  
+  "skills": {
+    "languages": ["Java","Python", "C","SQL","shell"],
+    "Big Data": ["Spark", "Kafka", "Hadoop"],
+    "devops": ["Git", "GitHub Action", "GitLab", "Docker","kubernetes","Terraform"],
+    "databases": ["MySQL","Oracle DB","PostgreSQL","MongoDB"],
+    "Cloud platform": ["AWS", "Azure","DataBricks","Snowflake"],
+    "Freamwork": ["FastAPI", "Spring Boot" , "Flask"],
+    "AI": ["Hugging Face", "TensorFlow", "PyTorch", "Scikit-learn", "NumPy", "Pandas"],
+    "orchestrated $ ETL": ["Apache Airflow", "dbt", "Data Warehousing", "Data Lake","Data Modelling"],
+    "tools": ["Prometheus", "Grafana","PowerBI"]
+  },
+  "languages": [
+    { "name": "Arabe", "level": "Langue maternelle" },
+    { "name": "Français", "level": "Compétence professionnelle" },
+    { "name": "Anglais", "level": "Compétence professionnelle" }
+  ],
+  "softSkills": [
+    "Travail en équipe",
+    "Autonomie",
+    "Adaptabilité"
+  ]
+}

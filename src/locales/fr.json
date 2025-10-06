@@ -1,0 +1,115 @@
+{
+  "locale": {
+    "code": "fr",
+    "label": "FR"
+  },
+  "hero": {
+    "emoji": "👋",
+    "greeting": "SALUT, JE SUIS AGHZAR OTMANE",
+    "title": {
+      "line1": "Construction",
+      "line2": "pipelines intelligents"
+    },
+    "subtitle": {
+      "before": "Étudiant à l'ENSAH spécialisé en ",
+      "highlight": "ingénierie des données",
+      "after": " avec une expérience dans la conception et l'optimisation des processus de données ETL/ELT, l'architecture cloud (AWS, Azure), les technologies Big Data (Spark, Kafka) et les solutions d'intelligence artificielle, y compris l'IA générative."
+    },
+    "focusLabel": "ACTUELLEMENT FOCALISÉ SUR :",
+    "ctaPrimary": "Mon CV (PDF)",
+    "ctaSecondary": "Voir Projets",
+    "connectLabel": "ENTRER EN CONTACT :",
+    "badgeTitle": "MQL",
+    "badgeSubtitle": "Ingénieure de données",
+    "skills": {
+      "Big Data": {
+        "title": "Power BI &  Big Data Visualization ",
+        "description": " Tableaux de bord interactifs et analyses visuelles avancées"
+      },
+      "Devops": {
+        "title": "Devops",
+        "description": "containerisation Docker/Kubernetes"
+      },
+      "Piplines": {
+        "title": "ETL automation",
+        "description": "Conception de pipelines de traitement des flux de données"
+      },
+      "Cloud": {
+        "title": "Cloud Computing",
+        "description": "AWS(EC3,Ridshift,Lambda), Azure(Data Factory,DataBricks)"
+      }
+    },
+    "social": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Email"
+    }
+  },
+  "header": {
+    "menu": {
+      "about": "À propos",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "contact": "Contact"
+    }
+  },
+  "chat": {
+    "cta": "Parlons-en",
+    "subtitle": "Répond généralement en quelques minutes",
+    "placeholder": "Tapez votre message…",
+    "greeting": "Salut, je suis Khalid. Comment puis-je vous aider ?",
+    "error": "❌ Une erreur s'est produite. Veuillez réessayer plus tard.",
+    "fallback": "Merci ! Je vous répondrai sous peu.",
+    "quick": {
+      "skills": "Parlez-moi de vos compétences",
+      "projects": "Montrez-moi vos projets",
+      "experience": "Résumez votre expérience",
+      "contact": "Comment puis-je vous contacter ?",
+      "skillsLabel": "Compétences",
+      "projectsLabel": "Projects",
+      "contactLabel": "Contact"
+    }
+  },
+  "portfolio": {
+    "projects": {
+      "title": "Projects phares",
+      "subtitle": "Des solutions innovantes avec des technologies modernes",
+      "toggle": "Projects"
+    },
+    "resume": {
+      "title": "Parcours et compétences",
+      "subtitle": "Formation, certifications, compétences et langues",
+      "skillsSubtitle": "Compétences organisées",
+      "education": "Formation",
+      "skills": "Compétences",
+      "languages": "Langues",
+      "grade": "Note",
+      "categories": {
+        "languages": "Languages",
+        "Big Data": "Big Data",
+        "devops": "DevOps",
+        "databases": "Databases",
+        "cloud Platforms": "Cloud Platforms",
+        "Freamworks": "Frameworks",
+        "IA": "IA",
+        "orchestrated $ ETL": "Orchestrated $ ETL",
+        "tools": "Tools"
+      },
+      "skillsMinimal": {
+        "title": "Stack technique",
+        "subtitle": "Groupes organisés avec mes outils de référence. Touchez une catégorie pour explorer.",
+        "focusLabel": "En cours de perfectionnement",
+        "focusFallback": "Je peaufine cette compétence pour pousser les projets futurs plus loin."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Construction pipelines intelligents.",
+    "builtWith": "Développé avec React, Vite et MUI.",
+    "copyrightPrefix": "©",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "close": "Fermer"
+  }
+}
